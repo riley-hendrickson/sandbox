@@ -1,1 +1,1 @@
-hello from main!
+Hi from bugfix! I resolved the merge conflict!
